@@ -1,6 +1,6 @@
 {
-  "name": "AR15BOT",
-  "version": "1.0.0",
+  "name": "BOT✘RFDI",
+  "version": "2.0.0",
   "description": "Termux only",
   "main": "index.js",
   "directories": {
@@ -29,15 +29,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aris187id/AR15BOT.git"
+    "url": "git+https://github.com/MrRfdi01/BOTWARFDI.git"
   },
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
+  "author": "MrRfdi01",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aris187id/AR15BOT/issues"
+    "url": "https://github.com/MrRfdi01/BOTWARFDI/issues"
   },
-  "homepage": "https://github.com/aris187id/AR15BOT#readme"
+  "homepage": "https://github.com/MrRfdi01/BOTWARFDI#readme"
 }
